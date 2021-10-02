@@ -1,1 +1,1 @@
-# JavaScript_Find-Your-Hat
+# JavaScript: Find Your Hat
